@@ -1,0 +1,31 @@
+.producto {
+    border: 1px solid #0de756; /* Borde verde */
+    padding: 10px;
+    margin: 10px;
+    max-width: 300px; /* Ancho máximo del contenedor del producto */
+    background-color: #e0f7e0; /* Fondo de color orgánico (verde claro) */
+}
+
+img {
+    width: 200px; /* Ancho fijo para las imágenes */
+    max-height: 200px; /* Alto máximo de la imagen */
+}
+
+.product-image {
+    max-width: 200px; /* Ancho máximo de la imagen */
+    max-height: 200px; /* Alto máximo de la imagen */
+    margin: 0 auto; /* Centrar la imagen */
+    display: block; /* Asegura que el margen automático funcione */
+}
+
+.card {
+    max-width: 600px; /* Ancho máximo de la tarjeta */
+    margin: 20px auto; /* Centrar la tarjeta */
+    background-color: #5fb816; /* Fondo ligero para la tarjeta */
+    border-radius: 8px; /* Bordes redondeados para la tarjeta */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra sutil para la tarjeta */
+}
+
+.card:hover {
+    background-color: rgb(9, 190, 33); /* Cambia el color de fondo al pasar el mouse */
+}

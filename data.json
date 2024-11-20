@@ -1,0 +1,64 @@
+{
+    "productos": [
+      {
+        "titulo": "Botellas de Agua Reutilizable",
+        "descripcion": "Fabricado en acero inoxidable de doble pared, ultra resistente, que mantiene tus bebidas calientes hasta por 12 horas y tus bebidas frías hasta por 24 horas. Es portátil, práctico y tiene una capacidad de hasta 1.2 litros. Ideal para llevar a campamentos, viajes, la escuela y la oficina.",
+        "imagen": "https://www.infohoreca.com/media/uploads/noticias/reboottlethermo-infohoreca.jpg",
+        "costo": 25.00
+      },
+      {
+        "titulo": "Bolsa de Tela Ecológica",
+        "descripcion": "Bolsa reutilizable de tela de algodón para manualidades, 15 x 16 pulgadas, bolsa reutilizable con asa, paquete de 5.",
+        "imagen": "https://m.media-amazon.com/images/I/6123i83vHHL._AC_SX679_.jpg",
+        "costo": 10.00
+      },
+      {
+        "titulo": "Jabón Natural de Lavanda",
+        "descripcion": "Jabón artesanal hecho con ingredientes naturales. Ideal para pieles sensibles.",
+        "imagen": "https://m.media-amazon.com/images/I/81quVyE9bkL._AC_SX522_.jpg",
+        "costo": 5.00
+      },
+      {
+        "titulo": "Cepillo de Dientes de Bambú",
+        "descripcion": "Cepillo biodegradable, con cerdas suaves. Una alternativa ecológica a los cepillos de plástico.",
+        "imagen": "https://m.media-amazon.com/images/I/41HM1bw73HS._AC_SX522_.jpg",
+        "costo": 3.00
+      },
+      {
+        "titulo": "Pajitas de Acero Inoxidable",
+        "descripcion": "Set de 4 pajitas reutilizables de acero inoxidable, incluye cepillo de limpieza.",
+        "imagen": "https://m.media-amazon.com/images/I/81pZ71cKNnL._AC_SX569_.jpg",
+        "costo": 15.00
+      },
+      {
+        "titulo": "Funda de Almohada de Algodón Orgánico",
+        "descripcion": "Funda de almohada suave y transpirable, hecha de algodón 100% orgánico.",
+        "imagen": "https://m.media-amazon.com/images/I/71J91C+HswL._AC_UF894,1000_QL80_.jpg",
+        "costo": 20.00
+      },
+      {
+        "titulo": "Tazón de Madera",
+        "descripcion": "Tazón ecológico, ligero y resistente, ideal para ensaladas y snacks.",
+        "imagen": "https://m.media-amazon.com/images/I/61VnhcH8w5L._AC_SX569_.jpg",
+        "costo": 12.00
+      },
+      {
+        "titulo": "Velas Aromáticas Naturales",
+        "descripcion": "Velas hechas con cera de soja y aceites esenciales. Crea un ambiente relajante.",
+        "imagen": "https://m.media-amazon.com/images/I/71dgOi6rBpL._AC_SX679_.jpg",
+        "costo": 18.00
+      },
+      {
+        "titulo": "Bandejas de inico de semillas",
+        "descripcion": "Bandeja de inicio de semillas para plantar macetas de turba para plántulas, bandeja de germinación de vegetales, jardín, kit de inicio con etiquetas de plantas y 2 herramientas de trasplante para verduras y flores (100 piezas).",
+        "imagen": "https://m.media-amazon.com/images/I/81yIQjjni2L._AC_SX569_.jpg",
+        "costo": 22.00
+      },
+      {
+        "titulo": "Toalla de Playa de Microfibra",
+        "descripcion": "Toalla de secado rápido, ligera y compacta. Ideal para llevar a la playa o gimnasio.",
+        "imagen": "https://triferrari.com/wp-content/uploads/2023/05/MORADA-CHICA-600x600.png",
+        "costo": 30.00
+      }
+    ]
+  }
